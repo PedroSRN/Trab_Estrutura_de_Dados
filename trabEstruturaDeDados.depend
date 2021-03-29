@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1616992797 source:c:\users\pedra\onedrive\Área de trabalho\trab_estrutura_de_dados\trabestruturadedados\listadinencad.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDinEncad.h"
+
+1616992797 c:\users\pedra\onedrive\Área de trabalho\trab_estrutura_de_dados\trabestruturadedados\listadinencad.h
+
